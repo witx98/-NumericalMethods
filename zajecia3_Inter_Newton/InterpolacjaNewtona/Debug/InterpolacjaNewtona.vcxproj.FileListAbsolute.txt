@@ -1,0 +1,2 @@
+D:\STUDIA\IV_Semestr\Metody\zajęcia3\InterpolacjaNewtona\Debug\InterpolacjaNewtona.exe
+D:\STUDIA\IV_Semestr\Metody\zajęcia3\InterpolacjaNewtona\Debug\InterpolacjaNewtona.pdb

@@ -1,0 +1,2 @@
+D:\STUDIA\IV_Semestr\Metody\SimpsonMonteCarlo\Debug\SimpsonMonteCarlo.exe
+D:\STUDIA\IV_Semestr\Metody\SimpsonMonteCarlo\Debug\SimpsonMonteCarlo.pdb

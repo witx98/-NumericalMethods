@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\STUDIA\IV_Semestr\Metody\zajęcia3\InterpolacjaNewtona\Source.cpp(20,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\STUDIA\IV_Semestr\Metody\zajęcia3\InterpolacjaNewtona\Source.cpp(129,25): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\STUDIA\IV_Semestr\Metody\zajęcia3\InterpolacjaNewtona\Source.cpp(141,25): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  InterpolacjaNewtona.vcxproj -> D:\STUDIA\IV_Semestr\Metody\zajęcia3\InterpolacjaNewtona\Debug\InterpolacjaNewtona.exe

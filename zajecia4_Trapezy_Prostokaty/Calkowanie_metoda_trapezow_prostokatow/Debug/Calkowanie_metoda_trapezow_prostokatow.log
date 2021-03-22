@@ -1,0 +1,6 @@
+﻿  Źródło.cpp
+D:\STUDIA\IV_Semestr\Metody\Calkowanie_metoda_trapezow_prostokatow\Źródło.cpp(20,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\STUDIA\IV_Semestr\Metody\Calkowanie_metoda_trapezow_prostokatow\Źródło.cpp(36,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\STUDIA\IV_Semestr\Metody\Calkowanie_metoda_trapezow_prostokatow\Źródło.cpp(52,23): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+D:\STUDIA\IV_Semestr\Metody\Calkowanie_metoda_trapezow_prostokatow\Źródło.cpp(56,9): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Calkowanie_metoda_trapezow_prostokatow.vcxproj -> D:\STUDIA\IV_Semestr\Metody\Calkowanie_metoda_trapezow_prostokatow\Debug\Calkowanie_metoda_trapezow_prostokatow.exe

@@ -1,0 +1,4 @@
+D:\STUDIA\IV_Semestr\Metody\zajecia8\eliminacjaGaussa\Debug\eliminacjaGaussa.exe
+D:\STUDIA\IV_Semestr\Metody\zajecia8\eliminacjaGaussa\Debug\eliminacjaGaussa.pdb
+D:\STUDIA\IV_Semestr\Metody\zajecia8_Eliminacja_Gaussa\eliminacjaGaussa\Debug\eliminacjaGaussa.exe
+D:\STUDIA\IV_Semestr\Metody\zajecia8_Eliminacja_Gaussa\eliminacjaGaussa\Debug\eliminacjaGaussa.pdb

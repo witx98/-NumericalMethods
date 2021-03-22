@@ -1,0 +1,4 @@
+D:\STUDIA\IV_Semestr\Metody\zajecia9\BisekcjaNewtonRalphson\Debug\BisekcjaNewtonRalphson.exe
+D:\STUDIA\IV_Semestr\Metody\zajecia9\BisekcjaNewtonRalphson\Debug\BisekcjaNewtonRalphson.pdb
+D:\STUDIA\IV_Semestr\Metody\zajecia9_Bisekcja_NewtoRaphson\BisekcjaNewtonRalphson\Debug\BisekcjaNewtonRalphson.exe
+D:\STUDIA\IV_Semestr\Metody\zajecia9_Bisekcja_NewtoRaphson\BisekcjaNewtonRalphson\Debug\BisekcjaNewtonRalphson.pdb

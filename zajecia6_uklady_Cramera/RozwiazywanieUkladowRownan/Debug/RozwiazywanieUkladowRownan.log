@@ -1,0 +1,4 @@
+﻿  Źródło.cpp
+D:\STUDIA\IV_Semestr\Metody\zajecia6\RozwiazywanieUkladowRownan\Źródło.cpp(109,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\STUDIA\IV_Semestr\Metody\zajecia6\RozwiazywanieUkladowRownan\Źródło.cpp(72): warning C4715: "interpolacjaWielomianowa”: niewszystkie ścieżki kodu zwracają wartość
+  RozwiazywanieUkladowRownan.vcxproj -> D:\STUDIA\IV_Semestr\Metody\zajecia6\RozwiazywanieUkladowRownan\Debug\RozwiazywanieUkladowRownan.exe

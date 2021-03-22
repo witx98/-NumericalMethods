@@ -1,0 +1,14 @@
+﻿  Źródło.cpp
+D:\STUDIA\IV_Semestr\Metody\zajecia8_Eliminacja_Gaussa\eliminacjaGaussa\Źródło.cpp(38,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\STUDIA\IV_Semestr\Metody\zajecia8_Eliminacja_Gaussa\eliminacjaGaussa\Źródło.cpp(40,26): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\STUDIA\IV_Semestr\Metody\zajecia8_Eliminacja_Gaussa\eliminacjaGaussa\Źródło.cpp(44,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\STUDIA\IV_Semestr\Metody\zajecia8_Eliminacja_Gaussa\eliminacjaGaussa\Źródło.cpp(58,26): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\STUDIA\IV_Semestr\Metody\zajecia8_Eliminacja_Gaussa\eliminacjaGaussa\Źródło.cpp(62,16): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+D:\STUDIA\IV_Semestr\Metody\zajecia8_Eliminacja_Gaussa\eliminacjaGaussa\Źródło.cpp(95,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\STUDIA\IV_Semestr\Metody\zajecia8_Eliminacja_Gaussa\eliminacjaGaussa\Źródło.cpp(97,24): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\STUDIA\IV_Semestr\Metody\zajecia8_Eliminacja_Gaussa\eliminacjaGaussa\Źródło.cpp(104,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\STUDIA\IV_Semestr\Metody\zajecia8_Eliminacja_Gaussa\eliminacjaGaussa\Źródło.cpp(106,24): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\STUDIA\IV_Semestr\Metody\zajecia8_Eliminacja_Gaussa\eliminacjaGaussa\Źródło.cpp(134,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\STUDIA\IV_Semestr\Metody\zajecia8_Eliminacja_Gaussa\eliminacjaGaussa\Źródło.cpp(136,24): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\STUDIA\IV_Semestr\Metody\zajecia8_Eliminacja_Gaussa\eliminacjaGaussa\Źródło.cpp(151,24): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  eliminacjaGaussa.vcxproj -> D:\STUDIA\IV_Semestr\Metody\zajecia8_Eliminacja_Gaussa\eliminacjaGaussa\Debug\eliminacjaGaussa.exe

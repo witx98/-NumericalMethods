@@ -1,0 +1,8 @@
+﻿  Źródło.cpp
+D:\STUDIA\IV_Semestr\Metody\SimpsonMonteCarlo\Źródło.cpp(6,22): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+D:\STUDIA\IV_Semestr\Metody\SimpsonMonteCarlo\Źródło.cpp(17,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\STUDIA\IV_Semestr\Metody\SimpsonMonteCarlo\Źródło.cpp(30,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\STUDIA\IV_Semestr\Metody\SimpsonMonteCarlo\Źródło.cpp(47,23): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+D:\STUDIA\IV_Semestr\Metody\SimpsonMonteCarlo\Źródło.cpp(51,9): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\STUDIA\IV_Semestr\Metody\SimpsonMonteCarlo\Źródło.cpp(64,23): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+  SimpsonMonteCarlo.vcxproj -> D:\STUDIA\IV_Semestr\Metody\SimpsonMonteCarlo\Debug\SimpsonMonteCarlo.exe
